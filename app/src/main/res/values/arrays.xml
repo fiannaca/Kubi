@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gesture_list">
+        <item>Nod</item>
+        <item>Shake</item>
+        <item>Bow</item>
+        <item>Scan</item>
+    </string-array>
+    
+    <!-- Just one on one mappings to what a person could say to the robot -->
+    <string-array name="promptsAndResponses">
+        <item>hi|hi there</item>
+        <item>hello|hi there</item>
+        <item>can you nod|yes I can</item>
+        <item>can you shake|yes I can</item>
+        <item>can you scan|yes I can</item>
+        <item>nod|nodding</item>
+        <item>shake|shaking</item>
+        <item>scan|scanning</item>
+        <item>bow|bowing</item>
+        <item>look at me|Stareeeee</item>
+        <item>wake up|I\'m awake now</item>
+        <item>go to sleep|I\'m sleepy</item>
+        <item>what is your name|I don\'t have one yet</item>
+        <item>do you understand me|sometimes</item>
+        <item>can i call you siri|my name is not siri</item>
+        <item>how are you|I\'m fine</item>
+        <item>are you happy|couldn\'t be happier</item>
+        <item>are you sad|I don\'t know</item>
+        <item>what is one plus one|two</item>
+        <item>show me a happy face|happy face</item>
+        <item>show me a sad face|sad face</item>
+        <item>show me a :-(|sad face</item>
+        <item>please scan|scanning</item>
+    </string-array>
+    
+    <string-array name="nodPrompts">
+        <item>can you nod</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res"><file name="ic_launcher" path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\values\strings.xml" qualifiers=""><string name="app_name">TTSLib</string></file><file path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file></source><source path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\build\generated\res\rs\debug"/><source path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Alexander\Dev\Kubi\libraries\TTSLib\src\debug\res"/></dataSet><mergedItems/></merger>

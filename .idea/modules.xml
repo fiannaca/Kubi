@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/ASRLib/ASRLib.iml" filepath="$PROJECT_DIR$/libraries/ASRLib/ASRLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kubi.iml" filepath="$PROJECT_DIR$/Kubi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/TTSLib/TTSLib.iml" filepath="$PROJECT_DIR$/libraries/TTSLib/TTSLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/VPALib/VPALib.iml" filepath="$PROJECT_DIR$/libraries/VPALib/VPALib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/XMLLib/XMLLib.iml" filepath="$PROJECT_DIR$/libraries/XMLLib/XMLLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/opencv/opencv.iml" filepath="$PROJECT_DIR$/libraries/opencv/opencv.iml" />
+    </modules>
+  </component>
+</project>
+

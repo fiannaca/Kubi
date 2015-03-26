@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sandra.libs.asr.asrlib.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="sandra.libs.asr.asrlib.test"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for sandra.libs.asr.asrlib.test"/>
+</manifest>

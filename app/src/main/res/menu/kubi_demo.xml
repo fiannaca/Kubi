@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_face_track"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/track_face"/>
+    <item
+        android:id="@+id/action_gestures"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_gestures"/>
+    <item
+        android:id="@+id/connect_kubi"
+        android:orderInCategory="99"
+        android:showAsAction="never"
+        android:title="@string/connect_kubi"/>
+    <item
+        android:id="@+id/action_listen"
+        android:orderInCategory="98"
+        android:showAsAction="never"
+        android:title="@string/listen_button"/>
+</menu>

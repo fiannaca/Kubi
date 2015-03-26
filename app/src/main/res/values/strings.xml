@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KubiDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="listen">Listen</string>
+    
+    <!-- Menu option strings -->
+    <string name="action_gestures">Gestures</string>
+    <string name="connect_kubi">Connect to Nearest Kubi</string>
+    <string name="track_face">Track face</string>
+    
+	<!-- Button labels -->
+    <string name="left_button">Left</string>
+    <string name="right_button">Right</string>
+    <string name="up_button">Up</string>
+    <string name="down_button">Down</string>
+    <string name="speak_button">Speak</string>
+    <string name="listen_button">Listen</string>
+    
+    <string name="say_something">Enter speech</string>
+    <string name="gesture_title">Gestures</string>
+
+</resources>
